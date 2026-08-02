@@ -1,6 +1,4 @@
 # PPIC Production Planning Simulation
-Developed an end-to-end Production Planning and Inventory Control (PPIC) simulation in Microsoft Excel, integrating Aggregate Planning, Master Production Scheduling (MPS), and Rough-Cut Capacity Planning (RCCP) to balance production demand, inventory, and capacity.
-
 📌 Project Overview
 
 This project simulates the production planning process in a manufacturing environment. It transforms sales forecasts into production schedules while maintaining inventory levels and ensuring production capacity is sufficient to meet demand.
