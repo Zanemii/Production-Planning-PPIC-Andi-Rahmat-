@@ -40,7 +40,6 @@ Capacity Factors:<br>
  A Job Load chart is used to compare machine workload against available capacity and identify bottlenecks.
 
 How to Download
-1. Click the Code button (green).
-2. Select Download ZIP.
-3. Extract the ZIP file to your computer.
-4. Open the project folder.
+1. Click the file you want to download.
+2. Click View raw.
+3. The file will download automatically.
