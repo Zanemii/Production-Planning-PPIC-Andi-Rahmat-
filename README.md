@@ -1,16 +1,19 @@
 # PPIC Production Planning Simulation
-📌 Project Overview
+### Project Overview
 
 This project simulates the production planning process in a manufacturing environment. It transforms sales forecasts into production schedules while maintaining inventory levels and ensuring production capacity is sufficient to meet demand.
 
-🎯 Objectives
+IT IS RECOMMENDED TO USE CHROME TO OPEN THE FILE
+[PPIC](https://github.com/Zanemii/Production-Planning-PPIC-Andi-Rahmat-/raw/main/Production%20Planning.xlsx)
+
+### Objectives
 1. Convert sales forecasts into production plans.
 2. Maintain optimal inventory levels.
 3. Generate Master Production Schedules (MPS).
 4. Validate production plans against machine capacity.
 5. Identify potential capacity bottlenecks before production.
 
-⚙️Planning Process
+### Planning Process
 1. Aggregate Planning<br>
 Purpose: Determine monthly production requirements based on demand and inventory.<br>
 Inputs:<br>
@@ -38,8 +41,3 @@ Capacity Factors:<br>
 -Capacity Utilization<br>
  
  A Job Load chart is used to compare machine workload against available capacity and identify bottlenecks.
-
-How to Download
-1. Click the file you want to download.
-2. Click View raw.
-3. The file will download automatically.
