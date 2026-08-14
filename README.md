@@ -3,7 +3,7 @@
 
 This project simulates the production planning process in a manufacturing environment. It transforms sales forecasts into production schedules while maintaining inventory levels and ensuring production capacity is sufficient to meet demand.
 
-IT IS RECOMMENDED TO USE CHROME TO OPEN THE FILE
+IT IS RECOMMENDED TO USE CHROME TO OPEN THE FILE<br>
 [PPIC](https://github.com/Zanemii/Production-Planning-PPIC-Andi-Rahmat-/raw/main/Production%20Planning.xlsx)
 
 ### Objectives
